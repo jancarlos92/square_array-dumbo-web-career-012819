@@ -1,6 +1,5 @@
 def square_array(array)
   array.each 
-  
-  
-end
+  ** 2
+  end
 
